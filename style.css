@@ -115,7 +115,9 @@ img {
     margin-left: 78vw;
     width: 163px;
     margin-top: 55px;
+
     background-color: rgba(161, 91, 129, 0.454);
+   
     color: #290022;
     background: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(10px);
