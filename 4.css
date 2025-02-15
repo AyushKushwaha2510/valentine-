@@ -1,0 +1,119 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+main{
+    background-image: url(couple-3581038_1280.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: -42px;
+}
+div{
+    color: white;
+    text-align: center;
+}
+button{
+    margin-top: 50px;
+}
+.container {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    max-width: 350px;
+    width: 100%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    margin-left: 36px;
+}
+.container2 {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 0;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    max-width: 572px;
+    width: 100%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    margin-left: 36px;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+label {
+    font-weight: bold;
+    text-align: left;
+    display: block;
+}
+
+input, textarea, button {
+    width: 95%;
+    padding: 8px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+input, textarea {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+button {
+    background: #ff4081;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 1436px;
+    margin-left: 2px;
+    margin-top: -77px;
+}
+
+button:hover {
+    background: #e91e63;
+}
+#con {
+    margin-top: 29px;
+    margin-bottom: -10px;
+    margin-left: 65px;
+    margin-right: 5px;
+    width: 197px;
+}
+.glow {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 5px #ff4081, 0 0 10px #ff4081, 0 0 15px #ff4081, 0 0 20px #ff0055;
+    margin-top: -466px;
+    margin-left: 858px;
+    width: 660px;
+    height: 94px;
+    padding: 27px;
+    margin-bottom: 48px;
+}
+.shayari {
+    margin-left: -139px;
+    margin-top: -67px;
+}
