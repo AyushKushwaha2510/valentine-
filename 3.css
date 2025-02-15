@@ -1,6 +1,7 @@
 *{
     background-color: pink;
 }
-pre{
-    font-size: 200px;
+.abc {
+    font-size: 24px; /* Adjust as needed */
+    font-family: monospace; /* Keeps the original style */
 }
